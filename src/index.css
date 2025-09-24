@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+
+:root{
+    --clr--secondary--100: hsl(233, 67%, 56%); 
+    --clr--secondary--200: hsl(248, 70%, 36%); 
+    --clr--secondary--300: hsl(248, 87%, 12%); 
+
+    --clr--neutral--900: hsl(243, 96%, 9%);
+    --clr--neutral--50: hsl(243, 72%, 76%);
+    --clr--neutral--800: hsl(243, 27%, 20%);
+    --clr--neutral--700: hsl(243, 23%, 24%);
+    --clr--neutral--600: hsl(243, 23%, 30%);
+    --clr--neutral--300: hsl(240, 6%, 70%);
+    --clr--neutral--200: hsl(250, 6%, 84%);
+    --clr--neutral--100: hsl(0, 0%, 100%);
+
+    --clr--stone--100: hsl(240, 2%, 47%);
+    --clr--stone--200: hsl(240, 6%, 70%);
+}
+
+body{
+    font-size: 18px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
